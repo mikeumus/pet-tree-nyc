@@ -1,0 +1,99 @@
+[
+    {
+        "name": "NYC Tree Quiz",
+        "id": "geography",
+        "theme": "red",
+        "quizzes": [
+            {
+                "type": "single-select",
+                "question": "Which of the follow would you use as a tree measuring toolkit?",
+                "options": [
+                    "Meassuring wheel",
+                    "Tape Measure",
+                    "Eye Sight",
+                    "Tree Guide ID",
+                    "All of the above"
+                ],
+                "answer": [4]
+            },
+            {
+                "type": "single-select",
+                "question": "What can you use to record tree data?",
+                "options": [
+                    "A protractor",
+                    "An astrolabe",
+                    "TreesCount Treecorder",
+                    "Telekenesis"
+                ],
+                "answer": [2]
+            },
+            {
+                "type": "single-select",
+                "question": "What are types of tree structures?",
+                "options": [
+                    "Alive",
+                    "Dead",
+                    "Stump",
+                    "All of the above"
+                ],
+                "answer": [3]
+            },
+            {
+                "type": "single-select",
+                "question": "How do you measure a tree stump?",
+                "options": [
+                    "Circumference 5.4 ft from the ground up",
+                    "Circumference 4.5 ft from the ground up",
+                    "Circumference 54 ft from the ground up",
+                    "Circumference 45 ft from the ground up"
+                ],
+                "answer": [1]
+            },
+            {
+                "type": "single-select",
+                "question": "What does the tree trunk size tell us?",
+                "options": [
+                    "It tells us how tall the tree will grow.",
+                    "It tells us the sea level, if the weather will be rain or sunshine.",
+                    "It tells us how much carbon dioxide is consumed by the tree, electricity conserved, and water in the soil.",
+                    "It tells us if our neightbors are littering."
+                ],
+                "answer": [2]
+            },
+            {
+                "type": "single-select",
+                "question": "How many does a tree have, what are they?",
+                "options": [
+                    "2 common name, Latin name",
+                    "3 common name, earth name, Latin name",
+                    "1 ommon name",
+                    "1, Book name"
+                ],
+                "answer": [0]
+            },
+            {
+                "type": "single-select",
+                "question": "What are some leaf shapes?",
+                "options": [
+                    "Spade",
+                    "Teardrop",
+                    "Needle",
+                    "All of the above."
+                ],
+                "answer": [3]
+            },
+            {
+                "type": "single-select",
+                "question": "What are the determining factors of the health of a tree?",
+                "options": [
+                    "The density of the amount of leaves.",
+                    "The overall color of the leaves.",
+                    "The presence or absence of broken branches.",
+                    "The presence or absence of trunk wounds.",
+                    "All of the above."
+                ],
+                "answer": [4]
+            }
+        ]
+    }
+]
